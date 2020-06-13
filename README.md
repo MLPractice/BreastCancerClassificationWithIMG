@@ -1,2 +1,2 @@
 # BreastCancerClassificationWithIMG
- 利用预训练模型提取图像特征，然后加入到分类model中
+ 利用预训练模型提取图像特征，然后加入到分类model中作为特征，本质上还是个二分类任务
